@@ -50,9 +50,5 @@ This project implements a **Sign Language Action Detection System** using **Tens
 ## License
 This project is licensed under the **MIT License**.
 
-## Contact
-For any inquiries, feel free to reach out!
-- **Author:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+
 
